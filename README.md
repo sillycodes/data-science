@@ -164,3 +164,9 @@ Add **Open Source Society University** to your [Linkedin](https://www.linkedin.c
 
 * **Curriculum Maintainer**: [Waciuma Wanjohi](https://github.com/waciumawanjohi)
 * **Contributors**: [contributors](https://github.com/open-source-society/data-science/graphs/contributors)
+
+-------------------------------------------------------------------------------------------------------------
+## Some of hot topics added in the list.
+
+- SQL Topics ( https://docs.google.com/document/d/1mDs4pBnJARXunE0gUv1LD-pIXOO2colhrcRXDfwI-ZA/edit )
+- DE Road Map ( https://docs.google.com/document/d/1gttrkjZ4P4aOD7l5RES4S0kW9dWnrDMD4Ag00u3PIew/edit )
