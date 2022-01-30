@@ -170,3 +170,5 @@ Add **Open Source Society University** to your [Linkedin](https://www.linkedin.c
 
 - SQL Topics ( https://docs.google.com/document/d/1mDs4pBnJARXunE0gUv1LD-pIXOO2colhrcRXDfwI-ZA/edit )
 - DE Road Map ( https://docs.google.com/document/d/1gttrkjZ4P4aOD7l5RES4S0kW9dWnrDMD4Ag00u3PIew/edit )
+- DSA to Practice ( https://whimsical.com/dsa-for-data-engineers-W9dF8SC72c4dfAuCwL5jFV )
+- Data Structure & Algo Quesitions to practice ( https://docs.google.com/document/d/1YZwKKeKwsWmfpuQVDg0H2TU7e7DlEn4h/edit )
